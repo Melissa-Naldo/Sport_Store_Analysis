@@ -11,7 +11,9 @@
 
   This project draws inspiration from Chris French's insightful tutorial, providing a comprehensive guide on how to conduct a meticulous dataset analysis and adopt a data analyst's mindset. Having observed Chris French's analysis, I embarked on conducting my own examination.
 	This dataset was collected from a sport store that is widely distributed in the United States and corresponds to the sales information of the year 2022. The excel spreadsheet required thorough cleaning and preparation for analysis, including the calculation of values to fill one of the columns.
-Dataset
+
+ ### Dataset
+
   Acquired from Chris French's GitHub repository, the dataset comprises two Excel spreadsheets, each serving a distinct purpose: 
 * The first sheet, related to customers, contains 2849 rows and 5 columns, all text datatypes: 
   * “customer_id”;
