@@ -32,7 +32,7 @@
   *	“shipping_cost”, is in blank and we have to calculate our value;
   *	“rating”, is a number data type and it ranges from 1 to 5 based on the costumers’ experience.
 
-  The dataset was retrieved from Chris French’s GitHub:  https://github.com/chrisfrenchjr/SQLQueries/blob/main/Sports%20Store%20Data%20(Copy%20for%20Viewers).xlsx .
+  The dataset was retrieved from [Chris French’s GitHub.](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Sports%20Store%20Data%20(Copy%20for%20Viewers).xlsx) 
 
  ### List of questions
   
