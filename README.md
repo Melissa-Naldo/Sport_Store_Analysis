@@ -66,8 +66,11 @@
   In conclusion, the sport store's performance analysis has laid the groundwork for a strategic roadmap. The recommended actions align with the identified strengths and opportunities, ensuring a proactive and data-driven approach to future endeavours. By leveraging these insights, the sport store is poised for sustained growth, increased customer satisfaction, and optimized operational efficiency.
 
 ## Dashboard
+### Sport Store Data Analysis Dashboard - page 1 
 ![Sport Store Data Analysis Dashboard - page 1](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Images/Dash1.png)
 
+### Sport Store Sports Analysis Dashboard - page 2
 ![Sport Store Sports Analysis Dashboard - page 2](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Images/Dash2.png)
 
+### Sport Store Ratings Analysis Dashboard - page 3
 ![Sport Store Ratings Analysis Dashboard - page 3](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Images/Dash3.png)
