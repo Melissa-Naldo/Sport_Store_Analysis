@@ -5,7 +5,8 @@
 * [The original dataset](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Sport_Store_Data_Original.xlsx);
 * [The cleaned dataset](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Sport_Store_Data_Cleaned.xlsx);
 * [The SQL Exploratory Analysis](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Sport_Store.sql);
-* [The Tableau Dashboard](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Sport_Store.twbx).
+* [The Tableau Dashboard](https://public.tableau.com/app/profile/melissa.naldo/viz/Sport_Store_17056903350540/HomeDashboard?publish=yes).
+
 
 ## Introduction:
 
@@ -67,4 +68,6 @@
 ## Dashboard
 ![Sport Store Data Analysis Dashboard - page 1](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Images/Dash1.png)
 
-![Sport Store Ratings Analysis Dashboard - page 2](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Images/Dash2.png)
+![Sport Store Sports Analysis Dashboard - page 2](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Images/Dash2.png)
+
+![Sport Store Ratings Analysis Dashboard - page 3](https://github.com/Melissa-Naldo/Sport_Store_Analysis/blob/main/Images/Dash3.png)
